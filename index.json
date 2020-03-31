@@ -1,41 +1,41 @@
 [
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/test/first/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/test/first/",
 	"title": "first",
 	"tags": [],
 	"description": "",
 	"content": "111111aaaaddd\n second page  111111aaaaddd\n"
 },
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/",
 	"title": "home",
 	"tags": [],
 	"description": "",
 	"content": "first\nsecond\n"
 },
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/test/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/test/",
 	"title": "Test",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/test/second/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/test/second/",
 	"title": "second",
 	"tags": [],
 	"description": "",
-	"content": "2222222bbbbccc\n first page  2222222bbbccc\n"
+	"content": "2222222bbbbccc33333\n first page  2222222bbbccc\n"
 },
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/categories/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://tangmans.github/io/awtk-get-pages1/tags/",
+	"uri": "https://tangmans.github.io/awtk-get-pages1/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
